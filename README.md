@@ -1,12 +1,16 @@
 📊 Inflation Insights: Tracking Grocery Trends
+
 Inflation Insights is a Streamlit app designed to analyze grocery price trends for essential staples like milk, bread, flour, and eggs. Using data from the U.S. Bureau of Labor Statistics (BLS), the app provides interactive visualizations and actionable insights to explore the relationship between grocery prices and inflation.
 
 
 🌟 Key Features
+
 Visualize Price Trends: Track how prices for key groceries have changed over time.
 Inflation Correlation: Understand how grocery prices align with broader inflation metrics.
 Interactive Insights: Use dynamic charts and tools to uncover valuable trends.
+
 ⚙️ Data Workflow
+
 This project incorporates a structured data operation and abstraction design to handle grocery price data efficiently. Here's how it works:
 
 1. Data Acquisition
