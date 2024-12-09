@@ -22,4 +22,4 @@ Streamlined Workflow: A modular abstraction layer simplifies data retrieval and 
 Streamlit Integration: The app dynamically fetches and visualizes the data, ensuring smooth user interactions.
 With its simple design and robust data foundation, Inflation Insights helps users understand the impact of inflation on essential grocery items with clarity and ease.
 
-Explore the app now![Inflation Insights App](https://inflation-insights-tracking-grocery-trends-ts6nartdbxbstgl24g7.streamlit.app/)
+[Explore the app now!](https://inflation-insights-tracking-grocery-trends-ts6nartdbxbstgl24g7.streamlit.app/)
