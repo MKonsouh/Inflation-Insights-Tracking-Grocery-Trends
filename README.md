@@ -6,7 +6,9 @@ Inflation Insights is a Streamlit app designed to analyze grocery price trends f
 🌟 Key Features
 
 Visualize Price Trends: Track how prices for key groceries have changed over time.
+
 Inflation Correlation: Understand how grocery prices align with broader inflation metrics.
+
 Interactive Insights: Use dynamic charts and tools to uncover valuable trends.
 
 ⚙️ Data Workflow
